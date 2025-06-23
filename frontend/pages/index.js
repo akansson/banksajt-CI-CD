@@ -24,7 +24,7 @@ export default function Home() {
         <p className="text-gray-600 mb-8">
           Simple and secure banking for everyone
         </p>
-        <p>TEST HEJ</p>
+        <p>TEST HEJ2</p>
         <div className="space-x-4">
           <Link
             href="/register"
